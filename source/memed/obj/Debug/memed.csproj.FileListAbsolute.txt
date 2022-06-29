@@ -1,0 +1,14 @@
+C:\Users\hyneks pc\source\repos\memed\memed\bin\Debug\memed.exe
+C:\Users\hyneks pc\source\repos\memed\memed\bin\Debug\memed.pdb
+C:\Users\hyneks pc\source\repos\memed\memed\obj\Debug\memed.csproj.AssemblyReference.cache
+C:\Users\hyneks pc\source\repos\memed\memed\obj\Debug\memed.Form1.resources
+C:\Users\hyneks pc\source\repos\memed\memed\obj\Debug\memed.Properties.Resources.resources
+C:\Users\hyneks pc\source\repos\memed\memed\obj\Debug\memed.csproj.GenerateResource.cache
+C:\Users\hyneks pc\source\repos\memed\memed\obj\Debug\memed.csproj.CoreCompileInputs.cache
+C:\Users\hyneks pc\source\repos\memed\memed\obj\Debug\memed.exe
+C:\Users\hyneks pc\source\repos\memed\memed\obj\Debug\memed.pdb
+C:\Users\hyneks pc\source\repos\memed\memed\bin\Debug\Interop.WMPLib.dll
+C:\Users\hyneks pc\source\repos\memed\memed\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hyneks pc\source\repos\memed\memed\obj\Debug\Interop.WMPLib.dll
+C:\Users\hyneks pc\source\repos\memed\memed\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hyneks pc\source\repos\memed\memed\obj\Debug\memed.csproj.ResolveComReference.cache
